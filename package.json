@@ -1,0 +1,16 @@
+{
+  "name": "flight-request-system",
+  "version": "1.0.0",
+  "description": "Package dependencies and scripts for the project",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "install": "sh run.sh"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "body-parser": "^1.19.0"
+  },
+  "author": "Your Name",
+  "license": "ISC"
+}
